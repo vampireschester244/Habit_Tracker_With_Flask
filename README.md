@@ -1,5 +1,5 @@
 # Habit Tracker Application
-To add new habits and track them on day-today basis 
+To add new habits and track them on day-to-day basis 
 
 ## FrondEnd:
  - HTML
